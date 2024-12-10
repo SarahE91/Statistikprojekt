@@ -1,3 +1,3 @@
 # Statistikprojekt
 
-Daten für mein Projekt im Statistikkurs. 
+Daten für mein Projekt im Statistikkurs. ändern
